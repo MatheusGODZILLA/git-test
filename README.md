@@ -1,4 +1,5 @@
 # git-test
 Teste de Git
 
-Teste de dentro do VS Code
+#Adição de texto para teste
+Teste de dentro do VS Code 
