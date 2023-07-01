@@ -1,7 +1,7 @@
 //  Importando o módulo fs, utilizado para leitura e escrita de arquivos
 const fs = require('fs');
 
-let biblioteca = []; // Armazenar os livros cadastrados.
+let biblioteca = []; // 
 
 // Função para exibir o menu de opções do Gerenciador de livros
 function menu() {
